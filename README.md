@@ -23,7 +23,7 @@ This project is a Django-based API for managing availability and scheduling inte
 ### 1. Clone the Repository
 Clone the repository to your local machine:
 
-git clone <repository-url>
+git clone https://github.com/Muktharayappalli/interview-scheduler-backend.git
 cd interview_scheduler
 
 
